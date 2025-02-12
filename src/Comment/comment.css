@@ -1,0 +1,29 @@
+.container {
+	margin: 20px auto 0;
+	width: 200px;
+}
+
+.comment {
+	display: flex;
+	justify-content: space-between;
+  align-items: center;
+}
+
+.profile {
+	display: flex;
+	align-items: center;
+}
+
+.profile img {
+	border-radius: 50%;
+	width: 40px;
+	height: 40px;
+}
+
+.email {
+	font-size: 0.6rem;
+}
+
+.message {
+  border-top: 1px solid black;
+}
