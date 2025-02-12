@@ -1,0 +1,10 @@
+.userProfile {
+  display: flex;
+	align-items: center;
+}
+
+.userProfileComment {
+  display: flex;
+	justify-content: space-between;
+  align-items: center;
+}
