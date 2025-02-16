@@ -61,12 +61,12 @@ const UserConnentionForm = props => {
 					</div>
 					<br />
 					<div>
-						<label>email</label>
+						<label>email </label>
 						<input type='email' name='email' onChange={emailChangeHandler} />
 					</div>
 					<br />
 					<div>
-						<label>описание</label>
+						<label>описание </label>
 						<input type='text' name='desc' onChange={inputChangeHandler} />
 					</div>
 					<br />
